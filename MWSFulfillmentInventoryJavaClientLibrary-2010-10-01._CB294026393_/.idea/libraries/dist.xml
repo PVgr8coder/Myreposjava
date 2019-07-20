@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/httpclient-4.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/httpcore-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/MWSClientJavaRuntime-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/FulfillmentInventory_2010-10-01_v2014-09-30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/commons-logging-api-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

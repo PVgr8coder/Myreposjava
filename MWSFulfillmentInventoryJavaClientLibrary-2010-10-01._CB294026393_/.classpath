@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="runtime-src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="dist/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="dist/FulfillmentInventory_2010-10-01_v2014-09-30.jar"/>
+	<classpathentry kind="lib" path="dist/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="dist/httpcore-4.2.jar"/>
+	<classpathentry kind="lib" path="dist/MWSClientJavaRuntime-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
